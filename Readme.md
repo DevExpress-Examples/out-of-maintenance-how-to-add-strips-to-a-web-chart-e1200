@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/WebStrips/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebStrips/Default.aspx.vb))
+<!-- default file list end -->
 # How to add strips to a web chart
 
 
