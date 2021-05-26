@@ -9,9 +9,6 @@
 **[[Run Online]](https://codecentral.devexpress.com/e1200/)**
 <!-- run online end -->
 
+This example demonstrates how [strips](https://docs.devexpress.com/AspNet/15989/components/chart-control/concepts/chart-elements/axes/strips?p=netframework) can be programmatically added to a *web chart*, which is also created entirely via code.
 
-<p>This example demonstrates how <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5784.htm">strips</a> can be programmatically added to a <i>web chart</i>, which is also created entirely via code.</p><p>A related tutorial can be found in our online documentation at <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5756.htm">How to: Add a Chart to a Web Page (Runtime Sample)</a>.</p>
-
-<br/>
-
-
+A related tutorial can be found in our online documentation at [How to: Add a Chart to a Web Page (Runtime Sample)](https://docs.devexpress.com/AspNet/5756/components/chart-control/examples/how-to-add-a-chart-to-a-web-page-runtime-sample?p=netframework).
